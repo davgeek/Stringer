@@ -1,0 +1,3 @@
+# Stringer
+
+Java String utils
